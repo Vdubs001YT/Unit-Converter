@@ -12,4 +12,3 @@ Convert to:mm or cm or m or km or foot(DO NOT USE THE SAME UNIT TWICE)
 
 if the output shows more than 1 number then use the first number 
 
-#Installation
